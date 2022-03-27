@@ -4,4 +4,5 @@ package com.letscode.linx838.lambdas;
 public interface FormaGeometrica {
 
     long calculaArea(Integer a);
+
 }
